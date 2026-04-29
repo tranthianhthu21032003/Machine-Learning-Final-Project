@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Project
+# 🤖 Machine Learning Project với Heart.csv dataset
 
 > 📊 Dự án nghiên cứu và ứng dụng các mô hình học máy để giải quyết bài toán thực tế
 
@@ -105,12 +105,6 @@ Thêm penalty vào hàm loss để giảm độ phức tạp của mô hình.
 - Áp dụng trong NLP hoặc time-series  
 
 #### 2.2.3 So sánh mô hình
-| Tiêu chí | FFNN | RNN |
-|----------|------|-----|
-| Dữ liệu  | Tĩnh | Chuỗi |
-| Hiệu suất | Trung bình | Cao hơn với sequence |
-| Độ phức tạp | Thấp | Cao |
-
 ---
 
 #### 2.2.4 Tránh Overfitting
@@ -126,23 +120,5 @@ Thêm penalty vào hàm loss để giảm độ phức tạp của mô hình.
 - Tăng dữ liệu  
 - Ensemble mô hình  
 
----
 
-## 📊 Kết quả
-- Accuracy: XX%  
-- Precision: XX%  
-- Recall: XX%  
 
-> 👉 (Bạn nên cập nhật số liệu thực tế)
-
----
-
-## 📁 Cấu trúc thư mục
-
-```bash
-project/
-│── data/
-│── notebooks/
-│── models/
-│── src/
-│── README.md
